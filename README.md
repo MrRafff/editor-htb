@@ -1,51 +1,63 @@
-Hack The Box – Editor
+# 🛠 Hack The Box — Editor
 
-This repository contains my analysis and walkthrough of the Editor machine from Hack The Box.
+> A structured security analysis of the **Editor** machine  
+> Focused on methodology, exploitation logic, and privilege escalation.
 
-Overview
+---
 
-Editor is a security-focused lab designed to test enumeration skills, vulnerability identification, and privilege escalation techniques. The machine requires a structured approach to reconnaissance, careful analysis of exposed services, and an understanding of common web application attack vectors.
+## 🎯 Overview
 
-This write-up focuses on:
+**Editor** is a lab that challenges enumeration skills, vulnerability discovery, and privilege escalation techniques.
 
-Systematic reconnaissance and service enumeration
+This repository documents the complete attack path while intentionally avoiding direct flag disclosure.  
+The goal is to encourage understanding — not copy-pasting.
 
-Identification of the core vulnerability
+---
 
-Exploitation methodology
+## 🔎 What This Writeup Covers
 
-Privilege escalation process
+- 🧭 Systematic Reconnaissance  
+- 🌐 Service & Web Enumeration  
+- 💥 Exploitation Strategy  
+- 👑 Privilege Escalation  
+- 🛡 Security Takeaways  
 
-Security lessons learned
+---
 
-Note: This repository does not directly disclose flags or final answers. The goal is to encourage readers to understand the methodology and reproduce the attack path independently.
+## 📄 Full Documentation
 
-Documentation
+The detailed walkthrough is available in:
 
-The full walkthrough and detailed explanation are available in:
-
-editor.pdf
+👉 **`editor.pdf`**
 
 The PDF includes:
 
-Screenshots of each phase
+- 📸 Step-by-step screenshots  
+- 🧠 Explanation of attack logic  
+- ⚙ Tool usage breakdown  
+- 🔐 Privilege escalation analysis  
 
-Step-by-step technical analysis
+---
 
-Explanation of exploitation logic
+## 📚 Learning Objectives
 
-Privilege escalation breakdown
+After reviewing this material, you should be able to:
 
-Learning Objectives
+- Perform structured enumeration  
+- Identify vulnerable services  
+- Understand exploitation flow  
+- Think critically about attack paths  
+- Apply defensive mitigation strategies  
 
-By reviewing this material, readers should be able to:
+---
 
-Improve enumeration techniques
+## ⚠ Disclaimer
 
-Recognize vulnerable configurations
+This repository does **not** contain flags or direct answers.  
+It is intended strictly for educational purposes.
 
-Understand exploitation flow
+---
 
-Think critically about attack paths
+## 👨‍💻 Author
 
-Apply mitigation strategies
+Security enthusiast documenting hands-on lab experience.
